@@ -1,6 +1,6 @@
-#EDA plot4.R 
+#EDA plot4.R    
 
-#Call read me script to ring in data
+#Call read me script to read in data
 source("ReadData.R",echo=TRUE)
 
 png(filename = "plot4.png", width = 480, height = 480, units = "px", bg = "white")
